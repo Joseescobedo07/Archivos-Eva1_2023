@@ -1,0 +1,5 @@
+print ("jose")
+print ("escobedo")
+print ("redes avanzadas I")
+print ("santiago centro")
+print ("primavera 2023")
